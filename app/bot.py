@@ -8,7 +8,7 @@ import threading
 app = Flask(__name__)
 @app.route('/health')
 def health(): return "OK", 200
-    def run_flask()
+def run_flask()
 app.run(host='0.0.0.0', port=5000)
 # Logging setup
 logging.basicConfig(
