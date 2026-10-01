@@ -1,4 +1,5 @@
 python-telegram-bot
 uvicorn
 fastapi
-pydantic-settings
+pydantic-setting
+flask
